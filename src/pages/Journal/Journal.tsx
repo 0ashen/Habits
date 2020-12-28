@@ -65,11 +65,11 @@ export function Journal() {
                                      setHabit([...habit])
                                  }}>
                                 <div className={styles.habitIcon}>
-                                    <img src={require('../../assets/images/fruits/' + el.icon).default}
+                                    <img src={'./images/fruits/' + el.icon}
                                          alt=''
                                          width={70} />
                                     {
-                                        el.selected && <img src={require('../../assets/images/check.svg').default}
+                                        el.selected && <img src={'./images/check.svg'}
                                                             alt=''
                                                             className={styles.check} />
                                     }

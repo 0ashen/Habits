@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="016e74af-6fa2-4792-b1e8-61317d0830c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/check.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/check.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fruits/1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/fruits/1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fruits/2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/fruits/2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fruits/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/fruits/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fruits/4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/fruits/4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fruits/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/fruits/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fruits/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/fruits/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fruits/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/fruits/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fruits/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/fruits/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Journal/Journal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Journal/Journal.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +57,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\habits\public" />
       <recent name="D:\Projects\habits\src\pages\Journal" />
       <recent name="D:\Projects\habits\src\pages\Admin" />
       <recent name="D:\Projects\habits\src" />
       <recent name="D:\Projects\habits\src\components\Navigation" />
-      <recent name="D:\Projects\habits\src\components" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start">
@@ -78,6 +87,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.start" />
@@ -94,6 +105,7 @@
       <updated>1609135312449</updated>
       <workItem from="1609135314669" duration="1762000" />
       <workItem from="1609137108115" duration="7443000" />
+      <workItem from="1609150188782" duration="361000" />
     </task>
     <servers />
   </component>
