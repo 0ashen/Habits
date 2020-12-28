@@ -1,0 +1,55 @@
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
+.green {
+  :global(.react-calendar__tile--now) {
+    background-color: green !important;
+    color:#fff !important;
+  }
+}
+
+.habitList {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 900px;
+}
+
+.habitItem {
+  margin: 0px 10px 20px;
+  cursor: pointer;
+  user-select: none;
+
+  p {
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 15px;
+  }
+}
+
+.habitIcon {
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  padding: 20px 30px;
+  box-sizing: border-box;
+  background-color: #fde04d;
+  position: relative;
+
+  .habitItem:hover & {
+    background-color: #e0c326;
+  }
+
+  img {
+    height: 70px;
+    width: 70px;
+    object-fit: contain;
+  }
+}
+
+.check {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}

@@ -1,17 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b04cbd05-de05-410a-bca9-e4ed15d601fb" name="Default Changelist" comment="" />
+    <list default="true" id="016e74af-6fa2-4792-b1e8-61317d0830c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/fruits/4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/fruits/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Admin/Admin.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Admin/Admin.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Journal/Journal.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Journal/Journal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="MacroExpansionManager">
-    <option name="directoryName" value="q398i5tq" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1mGzYXoTfeQPbSjrQkGCGYR6Y4P" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="t05fwk7a" />
+  </component>
+  <component name="ProjectId" id="1mH0fD6Y6TrfOAX0PrNDT5lDH32" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -19,6 +51,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -26,18 +59,47 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="prettier.import.notification.dismissed" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="ts.external.directory.path" value="D:\Projects\habits\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\habits\src\pages\Journal" />
+      <recent name="D:\Projects\habits\src\pages\Admin" />
+      <recent name="D:\Projects\habits\src" />
+      <recent name="D:\Projects\habits\src\components\Navigation" />
+      <recent name="D:\Projects\habits\src\components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b04cbd05-de05-410a-bca9-e4ed15d601fb" name="Default Changelist" comment="" />
-      <created>1609134767099</created>
+      <changelist id="016e74af-6fa2-4792-b1e8-61317d0830c2" name="Default Changelist" comment="" />
+      <created>1609135312449</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609134767099</updated>
-      <workItem from="1609134769953" duration="34000" />
+      <updated>1609135312449</updated>
+      <workItem from="1609135314669" duration="1762000" />
+      <workItem from="1609137108115" duration="7443000" />
     </task>
     <servers />
   </component>
@@ -45,8 +107,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
